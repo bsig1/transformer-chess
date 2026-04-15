@@ -69,4 +69,3 @@ A practical first serious setup:
   - `num_heads=8`
 
 This is a strong baseline before scaling to longer contexts or deeper models.
-# transformer-chess
